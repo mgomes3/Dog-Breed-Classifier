@@ -1,3 +1,10 @@
+
+I trained my own model and implemented it into this image classification code. 
+The model has to do with dog breeds and I used the createML to train the model. The test validation set is not complete. Therefore, 
+the model is not that accurate. I am going to makde some changes to the model in order for it to work better at a confidence percentage of at least 90%
+
+Marc Gomes
+
 # Classifying Images with Vision and Core ML
 
 Preprocess photos using the Vision framework and classify them with a Core ML model.
